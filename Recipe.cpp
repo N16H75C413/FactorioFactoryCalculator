@@ -1,6 +1,6 @@
-#include "Recipe.h"
+#include "recipe.h"
 
-Recipe::Recipe(QWidget *parent) : QMainWindow(parent)
+Recipe::Recipe()
 {
 
 }

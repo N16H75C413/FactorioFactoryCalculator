@@ -6,7 +6,7 @@
 struct Ingredients
 {
     QString item;
-    int anz;
+    int menge;
 };
 
 #endif // STRUCTS_H

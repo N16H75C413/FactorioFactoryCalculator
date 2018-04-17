@@ -27,13 +27,15 @@ SOURCES += \
         main.cpp \
         mainwindow.cpp \
     luainput.cpp \
-    Recipe.cpp
+    item.cpp \
+    recipe.cpp
 
 HEADERS += \
         mainwindow.h \
     luainput.h \
-    Recipe.h \
-    structs.h
+    structs.h \
+    item.h \
+    recipe.h
 
 FORMS += \
         mainwindow.ui
