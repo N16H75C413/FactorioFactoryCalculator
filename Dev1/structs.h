@@ -3,7 +3,7 @@
 
 #include <QString>
 
-struct Ingredients
+struct Ingredient
 {
     QString item;
     int menge;
